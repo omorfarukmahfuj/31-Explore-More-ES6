@@ -10,7 +10,7 @@ const half = numbers.map(num => num / 2);
 console.log(half);
 
 
-const friends = ['Sayem', 'Lisan', 'Mahir', 'Nazmul']
+const friends = ['Sayem', 'Lisan', 'Mahir', 'Nazmul'];
 const length = friends.map(friend => friend.length);
 console.log(length);
 
